@@ -78,3 +78,8 @@ print(password)
    
 3. **Null Byte Removal:**
    After decryption, the script removes any null bytes (`\x00`) from the decrypted string to clean the output and reveal the plaintext password.
+
+
+
+   ![image](https://github.com/user-attachments/assets/3945f4ad-2056-4396-a949-10d1805ad056)
+
